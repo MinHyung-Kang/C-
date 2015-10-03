@@ -1,0 +1,3779 @@
+Log generated at 2015-03-14 17:56:54
+-------------------------------------------------
+Total of 4 players
+Tit for Tat players : 1
+Cooperative players : 1
+Defective players : 1
+Regular players : 1
+Custom players : 0
+-------------------------------------------------
+Player 1 is a cooperative player
+Player 2 is a cooperative player
+Player 3 is a defective player
+Player 4 is a regular player
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 50, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 50, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 50, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 50, x = 878, y = 109
+-------------------------------------------------
+Simulated by rounds
+Playing 30 rounds.
+-------------------------------------------------
+Round : 1
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 3 cooperated.
+Player 3 chose to defect and Player 1 chose to cooperate.
+Player 3 earned 2 and Player 1 earned -1
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 cooperated.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 1 chose to cooperate.
+Player 4 earned 1 and Player 1 earned 1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 65, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 65, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 35, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 45, x = 878, y = 109
+Round : 2
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 70, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 80, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 20, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 40, x = 878, y = 109
+Round : 3
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 65, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 95, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 5, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 35, x = 878, y = 109
+Round : 4
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 70, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 30, x = 878, y = 109
+Round : 5
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 65, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 25, x = 878, y = 109
+Round : 6
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 60, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 20, x = 878, y = 109
+Round : 7
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 55, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 15, x = 878, y = 109
+Round : 8
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 50, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 10, x = 878, y = 109
+Round : 9
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 45, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 5, x = 878, y = 109
+Round : 10
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 40, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 11
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 35, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 12
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 30, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 13
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 25, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 14
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 20, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 15
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 15, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 16
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 20, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 17
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 15, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 18
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 10, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 19
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 5, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 20
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 21
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 22
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 16, x = 878, y = 109
+Round : 23
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 21, x = 878, y = 109
+Round : 24
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 26, x = 878, y = 109
+Round : 25
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 21, x = 878, y = 109
+Round : 26
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 27
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 28
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 29
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 30
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Played 30 rounds.
+-------------------------------------------------
+Playing 20 rounds.
+-------------------------------------------------
+Round : 31
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 32
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 33
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 34
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 35
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 36
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 37
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 38
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 39
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 40
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 41
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 42
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 43
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 44
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 45
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 46
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 47
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 48
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 49
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 50
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 11, x = 878, y = 109
+Played 20 rounds.
+-------------------------------------------------
+Playing 5 rounds.
+-------------------------------------------------
+Round : 51
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 52
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 53
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 54
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 55
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 16, x = 878, y = 109
+Played 5 rounds.
+-------------------------------------------------
+Playing 16 rounds.
+-------------------------------------------------
+Round : 56
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 57
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 58
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 59
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 60
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 61
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 62
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to cooperate and Player 1 chose to cooperate.
+Player 4 earned 1 and Player 1 earned 1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 11, x = 878, y = 109
+Round : 63
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 11, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 64
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 11, x = 878, y = 109
+Round : 65
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 11, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 66
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 67
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 68
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 69
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 70
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 71
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Played 16 rounds.
+-------------------------------------------------
+Playing 30 rounds.
+-------------------------------------------------
+Round : 72
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 73
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 74
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 75
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 76
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 77
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 78
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 79
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 80
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 81
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 82
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 83
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 84
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 85
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 86
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 1 chose to defect.
+Player 4 earned -1 and Player 1 earned 2
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 87
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 1 chose to cooperate.
+Player 4 earned 2 and Player 1 earned -1
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 6, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 88
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 89
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 90
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 91
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to cooperate and Player 3 chose to defect.
+Player 4 earned -1 and Player 3 earned 2
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 11, x = 878, y = 109
+Round : 92
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 cooperated.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 6, x = 878, y = 109
+Round : 93
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 94
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 95
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 96
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 97
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 98
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to cooperate and Player 2 chose to cooperate.
+Player 4 earned 1 and Player 2 earned 1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 99
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 cooperated.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 100
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Round : 101
+Player 2 and Player 1 are now playing.
+Last time, Player 1 cooperated and Player 2 cooperated.
+Player 2 chose to cooperate and Player 1 chose to cooperate.
+Player 2 earned 1 and Player 1 earned 1
+
+Player 3 and Player 1 are now playing.
+Last time, Player 1 defected and Player 3 defected.
+Player 3 chose to defect and Player 1 chose to defect.
+Player 3 earned 0 and Player 1 earned 0
+
+Player 3 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 3 defected.
+Player 3 chose to defect and Player 2 chose to cooperate.
+Player 3 earned 2 and Player 2 earned -1
+
+Player 4 and Player 1 are now playing.
+Last time, Player 1 defected and Player 4 defected.
+Player 4 chose to defect and Player 1 chose to defect.
+Player 4 earned 0 and Player 1 earned 0
+
+Player 4 and Player 2 are now playing.
+Last time, Player 2 cooperated and Player 4 defected.
+Player 4 chose to defect and Player 2 chose to cooperate.
+Player 4 earned 2 and Player 2 earned -1
+
+Player 4 and Player 3 are now playing.
+Last time, Player 3 defected and Player 4 defected.
+Player 4 chose to defect and Player 3 chose to defect.
+Player 4 earned 0 and Player 3 earned 0
+
+-------------------------------------------------
+Status of Players in generation 0
+Player 1 : base = 50, basefac = 0, memfac = 100, distfac = 0, repfac = 0, rep = 1, x = 852, y = 519
+Player 2 : base = 100, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 100, x = 250, y = 588
+Player 3 : base = 0, basefac = 100, memfac = 0, distfac = 0, repfac = 0, rep = 1, x = 594, y = 194
+Player 4 : base = 4, basefac = 57, memfac = 84, distfac = 10, repfac = 14, rep = 1, x = 878, y = 109
+Played 30 rounds.
+-------------------------------------------------
+Log ended at 2015-03-14 17:57:13
